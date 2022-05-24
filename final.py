@@ -10,7 +10,8 @@ st.title("X-ray Report Generator")
 
 st.markdown("<small>by Amartya Bhattacharya, Hrithik Anand, Rupam Kumar Roy</small>",unsafe_allow_html=True)
 st.markdown("<small>Supervised By Dr. Rajib Das</small>",unsafe_allow_html=True)
-
+st.markdown("[<small>Github</small>](https://github.com/amartyacodes/MedicalReportGenerator)",
+unsafe_allow_html=True)
 st.markdown("\nThis application will generate the X-ray report.\nYou can upload 2 X-rays that are front view and side view of chest of the same individual.")
 st.markdown("The 2nd X-ray is optional.")
 
