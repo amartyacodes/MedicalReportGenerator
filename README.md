@@ -18,6 +18,15 @@ Webapp Link:
 ## Model Used
 ![download - 2022-05-24T190249 128](https://user-images.githubusercontent.com/44440114/170047687-a41fb8a6-a4e6-4ba4-9253-0da235e4a641.png)
 
+## Results
+
+# Results
+| Sl No. | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4
+| - | --------------------- | ----------- | -- | -- | -- |
+| 1. | Attention Model (greedy search) | 0.306819 | 0.302596 | 0.339031 | 	0.383689 |
+| 2. | Custom Final Model (greedy search) | 0.214501 |	0.243265 |	0.303785 |	0.36675 |
+| 3. | Simple Encoder Decoder (greedy search) | 0.317412 |	0.308454 |	0.333496 |	0.366244 |
+**So Attention Model Was used**
 
 ## Upload Files 
 **You can upload 2 X-ray images. The first should be of the front view and second one of the side view (doesn't matter which side).**
@@ -28,8 +37,8 @@ Webapp Link:
 ### Sample X-ray image for the 2nd one 
 ![CXR54_IM-2145-1002](https://user-images.githubusercontent.com/44440114/170045320-6531b1a2-30fe-4135-a06c-171af8a85c6c.png)
 
-### Sample Report Generated 
-![Screenshot from 2022-05-24 18-58-13](https://user-images.githubusercontent.com/44440114/170046711-9cf0ee0e-3a8b-4109-8e2e-2ab5b96f7de1.png)
+### Sample Working Video
+![Screenshot from 2022-05-24 18-58-13](https://user-images.githubusercontent.com/44440114/170052664-49a51416-e999-44a9-a4b7-846f8478a7cf.png)
 
 
 ## Acknowledgement
