@@ -38,10 +38,8 @@ Webapp Link:
 ![CXR54_IM-2145-1002](https://user-images.githubusercontent.com/44440114/170045320-6531b1a2-30fe-4135-a06c-171af8a85c6c.png)
 
 ### Sample Working Video
-![Screenshot from 2022-05-24 18-58-13](https://user-images.githubusercontent.com/44440114/170052664-49a51416-e999-44a9-a4b7-846f8478a7cf.png)
+![screen-capture (1)](https://user-images.githubusercontent.com/44440114/170054551-ca75943d-7bcf-45e3-9f08-ade165d12a3a.gif)
 
-
-https://user-images.githubusercontent.com/44440114/170053926-26c3a8b3-a4ee-4c29-a9d9-050cfbb87252.mp4
 
 
 ## Acknowledgement
