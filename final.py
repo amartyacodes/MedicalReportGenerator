@@ -26,12 +26,12 @@ col1,col2 = st.columns(2)
 predict_button = col1.button('Predict on uploaded files')
 test_data = col2.button('Predict on sample data')
 
-@st.cache
+
 def create_model():
     model_tokenizer = cm.create_model()
     return model_tokenizer
 
-@st.cache
+
 def predict(image_1,image_2,model_tokenizer,predict_button = predict_button):
     start = time.process_time()
     if predict_button:
@@ -54,7 +54,7 @@ def predict(image_1,image_2,model_tokenizer,predict_button = predict_button):
             del image_1,image_2
         else:
             st.markdown("## Upload an Image")
-@st.cache
+
 def predict_sample(model_tokenizer,folder = './test_images'):
     no_files = len(os.listdir(folder))
     file = np.random.randint(1,no_files)
