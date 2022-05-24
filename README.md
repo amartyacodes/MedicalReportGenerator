@@ -11,6 +11,14 @@ The model was built using [![Python](https://img.shields.io/pypi/pyversions/tens
 Webapp Link:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/amartyacodes/medicalreportgenerator/main/final.py)
 
+
+## Dataset 
+[Images](https://academictorrents.com/details/5a3a439df24931f410fac269b87b050203d9467d) and [Reports](https://academictorrents.com/details/66450ba52ba3f83fbf82ef9c91f2bde0e845aba9)
+
+## Model Used
+![download - 2022-05-24T190249 128](https://user-images.githubusercontent.com/44440114/170047687-a41fb8a6-a4e6-4ba4-9253-0da235e4a641.png)
+
+
 ## Upload Files 
 **You can upload 2 X-ray images. The first should be of the front view and second one of the side view (doesn't matter which side).**
 **The 2nd image is optional**
@@ -21,3 +29,11 @@ Webapp Link:
 ![CXR54_IM-2145-1002](https://user-images.githubusercontent.com/44440114/170045320-6531b1a2-30fe-4135-a06c-171af8a85c6c.png)
 
 ### Sample Report Generated 
+![Screenshot from 2022-05-24 18-58-13](https://user-images.githubusercontent.com/44440114/170046711-9cf0ee0e-3a8b-4109-8e2e-2ab5b96f7de1.png)
+
+
+## Acknowledgement
+I would like to thank my supervisor Dr. Rajib Das, Professor, Department of Computer Science and Engineering, University of Calcutta 
+for giving me the opportunity to work on the project. I would also like to thank Rupam Kumar Roy and Hrithik Anand for collaborating with me.
+
+**Detailed Report will be written later**
