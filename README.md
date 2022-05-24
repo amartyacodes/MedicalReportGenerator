@@ -46,4 +46,4 @@ Webapp Link:
 I would like to thank my supervisor [Dr. Rajib Das]( https://www.caluniv.ac.in/academic/Compsc/Rajib-Kumar-Das.pdf), Professor, Department of Computer Science and Engineering, University of Calcutta 
 for giving me the opportunity to work on the project. I would also like to thank [Rupam Kumar Roy](https://www.linkedin.com/in/rupam-kumar-roy-346973192/) and [Hrithik Anand](https://www.linkedin.com/in/hrithik-anand-ab03831aa/) for collaborating with me.
 
-**Detailed Report will be written later**
+**Detailed Report us under the process of being generated. It will be updated as soon as it gets done.**
